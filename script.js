@@ -656,8 +656,8 @@ Math.minmax = (value, limit) => {
           ${!hardMode ? "<p>Press H for hard mode</p>" : ""}
           <p>
             Follow me
-            <a href="https://twitter.com/HunorBorbely" , target="_blank"
-              >@HunorBorbely</a
+            <a href="https://github.com/shashitha18" , target="_blank"
+              >@ShashithaPitchuka</a
             >
           </p>`;
         noteElement.style.opacity = 1;
